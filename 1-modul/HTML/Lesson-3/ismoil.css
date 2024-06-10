@@ -1,0 +1,49 @@
+/* h1 {
+  color: red;
+}
+
+#id1 {
+  color: pink;
+}
+
+.text1 {
+  color: orange;
+}
+
+h1 {
+  color: brown;
+}
+
+Element - 10 
+class - 100
+id - 1000
+style - 10000000
+html {
+  scroll-behavior: smooth;
+}
+
+html,
+body {
+  scroll-behavior: smooth;
+} */
+
+a {
+  /* text-decoration-line: underline; */
+  /* text-decoration-color: blue; */
+  /* text-decoration-skip: initial; */
+  /* text-decoration-skip-ink: all; */
+  /* text-decoration-style: solid; */
+  /* text-decoration-thickness: ; */
+
+  /* text-decoration-thickness: 20px; */
+
+  /* text-decoration: 20px red wavy; */
+
+  /* text-decoration-style: dotted;
+  text-decoration: red; */
+
+  /* background-color: red; */
+  /* background: red; */
+
+  background-color: red;
+}
