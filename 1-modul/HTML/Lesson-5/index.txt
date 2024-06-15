@@ -1,0 +1,24 @@
+1. Lists (Ro'yxatlar) 
+    ul - unordered list (tartiblanmagan ro'yxat)
+    ol - oldered list (tartiblangan ro'yxat)
+    1. Attributes: 
+        1. type, reversed, start
+
+2. Form (Form,Shakl)
+    1. Taglar: 
+         1. form, input, textarea, select, option, optgroup, label and button
+    2. Attributes: 
+        1. type, placeholder, name, action, multiple, hidden, autofocus,  label and for 
+
+3. Table (Jadval): 
+     1. table, thead, tbody, tr, th va td.
+     2. Attributes: 
+         1. valign, align, bgcolor, cellspacing, cellpadding, border, rowspan va colspan.
+     3. Table bo'yicha amaliyot. 
+
+4. Amaliyot 
+    1. Har xil turdagi jadvallarni yasab ko'ramiz. 
+
+5. Uyga vazifa. 
+    1. Video darsliklarni ko'rib chiqish kerak. 
+    2. Tashlangan maketni qilish kerak.
