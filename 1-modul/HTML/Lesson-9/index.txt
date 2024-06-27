@@ -1,0 +1,5 @@
+1. Home page (Header vs Footer)
+2. About page 
+3. Registration va Login
+4. Slider vs Carousel
+5. Blog cardlar vs Blog details 
